@@ -44,9 +44,11 @@
   .bg-2{
     color: rgb(255, 255, 255);
   }
-.navbar {
-  background-color: antiquewhite;
-}
- 
+  .navbar {
+    background-color: antiquewhite;
+    color: #fff;
+   
+  }
   
+ 
   
